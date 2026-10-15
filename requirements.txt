@@ -1,0 +1,42 @@
+# Core Python data science
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+plotly
+statsmodels
+scikit-learn
+imbalanced-learn
+
+# Classical machine learning
+xgboost
+lightgbm
+catboost
+
+# Deep learning (PyTorch)
+torch
+torchvision
+torchaudio
+
+# Generative AI, NLP, and Hugging Face
+transformers
+datasets
+accelerate
+sentence-transformers
+nltk
+spacy
+
+# Computer vision and images
+opencv-python
+Pillow
+
+# Notebooks, utilities, and app demos
+jupyterlab
+ipykernel
+tqdm
+joblib
+requests
+python-dotenv
+streamlit
+gradio
