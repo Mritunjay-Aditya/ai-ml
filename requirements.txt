@@ -40,3 +40,7 @@ requests
 python-dotenv
 streamlit
 gradio
+
+
+# For data sets download and management
+kaggle
