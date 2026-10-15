@@ -26,16 +26,3 @@ __pycache__/
 # OS-generated files
 .DS_Store
 Thumbs.db
-
-# Python virtual environment
-.venv/
-venv/
-env/
-ENV/
-
-# Python cache
-__pycache__/
-*.py[cod]
-
-# Jupyter checkpoints
-.ipynb_checkpoints/
